@@ -55,17 +55,5 @@
                 </a>
             </li>
         </ul>
-        <ul class="side-menu">
-            <li class="side-item side-item-category mt-2">Messages Center</li>
-
-            <li class="slide">
-                <a class="side-menu__item py-2" data-bs-toggle="slide" href="{{ route('contact.index') }}">
-                    <i class="icon fab fa-google-wallet me-2"></i>
-                    <span class="side-menu__label">Contact</span>
-                </a>
-            </li>
-
-        </ul>
-
     </div>
 </aside>
