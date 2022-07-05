@@ -261,6 +261,5 @@ After that you can simple use it as following
         <th>Value</th>
     </tr>
     
- 
   </table>
 
