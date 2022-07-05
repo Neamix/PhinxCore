@@ -285,6 +285,21 @@ After that you can simple use it as following
             if you want to save the name of image in your database you can easliy use withSaveRelation to save it (Note the table must contain name,use_for column)
          </td>
     </tr>
+        <tr>
+         <td>
+            resize
+         </td>
+         <td>
+            if you want to resize the image to the most perfect size according to aspect ratio without any crop 
+         </td>
+             <tr>
+         <td>
+            fit
+         </td>
+         <td>
+            if you want to fit image in container (if the container doesnt have same aspect ratio of original image the image will be cropted)
+         </td>
+    </tr>
     </tbody>
   </table>
 
