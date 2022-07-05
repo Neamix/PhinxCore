@@ -253,49 +253,14 @@ After that you can simple use it as following
             ->compile();
   ```
   
-  ```
   
   <table>
-    <tr>
-        <th>
-            Key
-        </th>
-        <th>
-            Value
-        </th>
-    </tr>
     
     <tr>
-        <td>
-            dimintions
-        </td>
-        <td>
-            You can use it to resize image multi time and get diffrent size of it 
-        </td>
+        <th>Key</th>
+        <th>Value</th>
     </tr>
-     <tr>
-        <td>
-            files
-        </td>
-        <td>
-           the file/files that you want to resize 
-        </td>
-      </tr>
-      <tr>
-         <td>
-            use_for
-        </td>
-        <td>
-           think at this key as a hooker that you can use to get this image
-        </td>
-    </tr>
-    <tr>
-         <td>
-            withSaveRelation
-         </td>
-         <td>
-            if you want to save the name of image in your database you can easliy use withSaveRelation to save it (Note the table must contain name,use_for column)
-         </td>
-    </tr>
+    
+ 
   </table>
 
