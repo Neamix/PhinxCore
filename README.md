@@ -253,6 +253,8 @@ After that you can simple use it as following
             ->compile();
   ```
   
+  ```
+  
   <table>
     <tr>
         <th>
