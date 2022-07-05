@@ -253,13 +253,12 @@ After that you can simple use it as following
             ->compile();
   ```
   
-  
   <table>
-    
-    <tr>
-        <th>Key</th>
-        <th>Value</th>
-    </tr>
-    
+    <thead>
+        <tr>
+            <td>Key</td>
+            <td>Value</td>
+        </tr>
+    </thead>
   </table>
 
